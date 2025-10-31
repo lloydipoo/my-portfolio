@@ -13,3 +13,8 @@
 
 ## Contact
 Email: ldela-cruz4@myseneca.ca
+
+## Skills
+- Programming: C++, JavaScript
+- Git: Advanced
+- Database: SQL
