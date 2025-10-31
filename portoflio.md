@@ -13,3 +13,8 @@
 
 ## Contact
 Email: ldela-cruz4@myseneca.ca
+
+## Skills
+- Programming: Python, Java
+- Git: Intermediate
+- Web Development: HTML, CSS
